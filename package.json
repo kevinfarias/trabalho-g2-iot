@@ -1,0 +1,17 @@
+{
+  "name": "trabalho-g2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^9.8.2",
+    "johnny-five": "^2.1.0"
+  }
+}
